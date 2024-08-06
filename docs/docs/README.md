@@ -16,7 +16,6 @@ actions:
   type: secondary
 - text: 企业设置
   link: /tenant/tenant.md
-
 ```
 <!--
 highlights:
