@@ -1,0 +1,19 @@
+{
+  "name": "space-docs2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^2.0.0-rc.0"
+  },
+  "dependencies": {
+    "vuepress-theme-hope": "^2.0.0-rc.13"
+  }
+}
