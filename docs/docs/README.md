@@ -20,7 +20,6 @@ actions:
 
 <!--
 highlights:
-
   - header: Global Control, Simplified
     description: Powerful AIoT capabilities to centrally control lighting, air conditioning, projection, curtains, AV, etc., enabling integration and interoperability among different smart terminals, different system platforms, and various application scenarios, simplifying complexity.
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
