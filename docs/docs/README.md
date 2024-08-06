@@ -1,4 +1,4 @@
----
+
 home: true
 heroImage: static/images/logo.png
 heroImageDark: static/images/logo-white.png
@@ -17,7 +17,7 @@ actions:
 - text: 企业设置
   link: /tenant/tenant.md
 
----
+
 <!--
 highlights:
   - header: 全局管控，化繁为简
